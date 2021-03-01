@@ -1,11 +1,10 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: SchumacherClean-Regular
 FullName: Schumacher Clean Regular
 FamilyName: SchumacherClean
 Weight: Regular
-Copyright: Copyright 1989 Dale Schumacher.
 UComments: "2021-2-23: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 002.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +19,6 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1614142468
-ModificationTime: 1614206466
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,10 +38,6 @@ DEI: 91125
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: 8
-AntiAlias: 1
-FitToEm: 0
-WinInfo: 0 24 12
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -945,35 +939,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 8 129 7 1 1 Schumacher
-BDFStartProperties: 25
-FONT 1 "-Schumacher-SchumacherClean-Medium-R-Normal--8-80-75-75-C-80-FontSpecific-0"
-SIZE 1 "8 75 75"
-FONTBOUNDINGBOX 1 "8 8 0 -1"
-FONTNAME_REGISTRY 16 ""
-FOUNDRY 16 "Schumacher"
-FAMILY_NAME 16 "SchumacherClean"
-WEIGHT_NAME 16 "Medium"
-SLANT 16 "R"
-SETWIDTH_NAME 16 "Normal"
-ADD_STYLE_NAME 16 ""
-PIXEL_SIZE 18 8
-POINT_SIZE 18 80
-RESOLUTION_X 19 75
-RESOLUTION_Y 19 75
-SPACING 16 "C"
-AVERAGE_WIDTH 18 80
-CHARSET_REGISTRY 16 "FontSpecific"
-CHARSET_ENCODING 16 "0"
-COPYRIGHT 16 "Copyright 1989 Dale Schumacher."
-WEIGHT 19 10
-X_HEIGHT 18 7
-QUAD_WIDTH 18 8
-DEFAULT_CHAR 19 0
-FONT_DESCENT 18 1
-FONT_ASCENT 18 7
-BDFEndProperties
-Resolution: 75
+BitmapFont: 8 128 7 1 1
 BDFChar: 0 0 8 0 7 -1 6
 zz
 BDFChar: 1 1 8 0 7 -1 6
